@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notenrechner-online.github.io/noten-tipps/sitemap.xml
