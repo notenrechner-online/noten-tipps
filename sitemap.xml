@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://notenrechner-online.github.io/noten-tipps/</loc>
-<lastmod>2026-10-02</lastmod>
-</url>
-<url>
-<loc>https://notenrechner-online.github.io/noten-tipps/gewichtung-notendurchschnitt.html</loc>
-<lastmod>2026-10-02</lastmod>
-</url>
-<url>
-<loc>https://notenrechner-online.github.io/noten-tipps/restnote-berechnen.html</loc>
-<lastmod>2026-10-02</lastmod>
-</url>
+  <url>
+    <loc>https://noten-gewichteter-schnitt.vercel.app/</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://noten-gewichteter-schnitt.vercel.app/ects-notenschnitt-uni.html</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://noten-gewichteter-schnitt.vercel.app/wunschschnitt-erreichen.html</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://noten-gewichteter-schnitt.vercel.app/prozent-gewichtung-umrechnen.html</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://noten-gewichteter-schnitt.vercel.app/modulnote-berechnen.html</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://noten-gewichteter-schnitt.vercel.app/streichnote-effekt.html</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://noten-gewichteter-schnitt.vercel.app/schnitt-in-excel.html</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
 </urlset>
